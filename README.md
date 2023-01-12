@@ -28,6 +28,8 @@ Los principales clientes del servicio serán:
 
 * [Test runner y librería de aserciones](https://github.com/pedromarting3/OnTime/blob/objetivo4/docs/Test.md)
 
+* [Imagen de Docker](https://github.com/pedromarting3/OnTime/blob/objetivo5/docs/Docker-image.md)
+
 ## Check sintax
 Para comprobar la sintaxis  de los directorios ejecuta el siguiente comando:
 ```shell
